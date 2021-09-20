@@ -1,2 +1,1 @@
-# Python-OOP
-exercises for upgrade
+# Python-OOP course
